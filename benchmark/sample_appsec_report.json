@@ -1,0 +1,10 @@
+{
+  "findings": [
+    { "file_path": "benchmark/python_app/app.py", "start_line": 28 },
+    { "file_path": "benchmark/python_app/app.py", "start_line": 51 },
+    { "file_path": "benchmark/js_app/server.js", "start_line": 18 },
+    { "file_path": "benchmark/go_app/main.go", "start_line": 28 },
+    { "file_path": "benchmark/java_app/src/main/java/com/benchmark/dao/UserDao.java", "start_line": 21 },
+    { "file_path": "benchmark/python_app/app.py", "start_line": 41 }
+  ]
+}
