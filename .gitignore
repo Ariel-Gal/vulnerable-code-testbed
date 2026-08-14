@@ -3,3 +3,7 @@ __pycache__/
 node_modules/
 target/
 *.class
+logs/
+codeql_results/
+.appsec
+.appsec-policy.yml
